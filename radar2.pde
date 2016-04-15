@@ -3,14 +3,6 @@
  - New bogey locations will draw before line locate reaches if frameCount is still in draw cycle.
    + Solved with signature variable in bogey object.
 
-   TODO:
-   
- - Convert get distance functions to support trig functions for ellipse support.
- 
- - Multiple Bogey support.
- 
- 
-
 */
 
 // Global Declarations
